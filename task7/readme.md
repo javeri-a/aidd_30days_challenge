@@ -1,4 +1,4 @@
-Task 7 – SPECKit Plus 
+Task 7  SPECKit Plus 
 
  SPECKit Plus:
 
