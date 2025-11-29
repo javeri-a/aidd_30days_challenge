@@ -1,10 +1,12 @@
-Task 7 – SPECKit Plus (AIDD 30-Day Challenge)
+Task 7 – SPECKit Plus 
 
  SPECKit Plus:
- 
+
 SPECKit Plus is a simple framework that helps us understand how to plan, design, and complete AI or software projects step by step. It breaks the whole process into clear stages so that we can think better, stay organized, and implement our ideas in a structured way. By following SPECKit Plus, students learn how to define a problem, plan a solution, create tasks, and finally implement the project smoothly.
 
 Five Core Concepts of SPECKit Plus
+
+
 1 /constitution
 
 The constitution section explains the main purpose and values of a project. It tells why the project exists and what problems it aims to solve. It sets the foundation and gives direction to the whole project.
